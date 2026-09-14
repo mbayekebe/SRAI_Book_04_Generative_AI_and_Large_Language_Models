@@ -1,0 +1,15 @@
+{
+  "production_unit_id": "PU-B04-C01",
+  "book_number": 4,
+  "book_title": "Generative AI and Large Language Models",
+  "lesson_number": 1,
+  "lesson_title": "Generative AI and LLM Foundations",
+  "summary": "This lesson explains how language models represent text, predict successive tokens and use attention, while establishing the evidence, evaluation and governance controls required for responsible institutional use.",
+  "learning_destination": "Across Book 4, ambitious learners progress toward building and explaining a small educational GPT-style model.",
+  "repository_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models",
+  "production_unit_url": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models/tree/main/production-units/PU-B04-C01",
+  "video_url": "https://youtu.be/cdp_uzccJPU",
+  "video_duration": "20:15",
+  "release_tag": "pu-b04-c01-v0.1.0",
+  "status": "release_candidate"
+}
