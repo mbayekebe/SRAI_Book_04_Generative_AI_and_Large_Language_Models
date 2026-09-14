@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "production_unit_id": "PU-B04-C01",
+  "book_number": 4,
+  "lesson_number": 1,
+  "title": "Generative AI and LLM Foundations",
+  "candidate_version": "0.1",
+  "release_tag_planned": "pu-b04-c01-v0.1.0",
+  "repository": "https://github.com/mbayekebe/SRAI_Book_04_Generative_AI_and_Large_Language_Models",
+  "video_url": "https://youtu.be/cdp_uzccJPU",
+  "video_duration": "20:15",
+  "video_visibility": "public",
+  "asset_groups": [
+    "assessment",
+    "executive",
+    "github",
+    "lesson",
+    "notebook",
+    "slides",
+    "video",
+    "website"
+  ],
+  "validation_status": "PASS",
+  "release_status": "RELEASE_CANDIDATE"
+}

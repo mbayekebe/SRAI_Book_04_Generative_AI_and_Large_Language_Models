@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "record_type": "SRAI_VIDEO_PUBLICATION_RECORD",
+  "production_unit_id": "PU-B04-C01",
+  "book": {
+    "number": 4,
+    "title": "Generative AI and Large Language Models"
+  },
+  "lesson": {
+    "number": 1,
+    "title": "Generative AI and LLM Foundations"
+  },
+  "video": {
+    "platform": "YouTube",
+    "url": "https://youtu.be/cdp_uzccJPU",
+    "video_id": "cdp_uzccJPU",
+    "duration_display": "20:15",
+    "duration_seconds": 1215,
+    "visibility": "public",
+    "language": "English",
+    "category": "Education",
+    "audience_designation": "Not made specifically for children"
+  },
+  "presentation_source": {
+    "filename": "PU-B04-C01_Generative_AI_LLM_Foundations_Lesson_Presentation_v0.1.2.pptx",
+    "slide_count": 37,
+    "speaker_notes_mode": "complete audience-facing narration",
+    "speaker_notes_coverage": "37 of 37 slides"
+  },
+  "thumbnail": {
+    "filename": "PU-B04-C01_Video_Thumbnail_v0.1.png"
+  },
+  "validation": {
+    "url_structure": "PASS",
+    "video_id_capture": "PASS",
+    "duration_confirmation": "PASS_USER_CONFIRMED",
+    "visibility_confirmation": "PASS_USER_CONFIRMED",
+    "youtube_page_metadata_lookup": "NOT_AVAILABLE_DURING_EXTERNAL_LOOKUP",
+    "playback_validation": "PENDING_FINAL_OWNER_CONFIRMATION",
+    "audio_validation": "PENDING_FINAL_OWNER_CONFIRMATION",
+    "caption_validation": "PENDING_OR_NOT_REPORTED",
+    "overall_status": "PUBLICATION_RECORDED_WITH_OWNER_CONFIRMATION"
+  },
+  "learning_destination": "Across Book 4, ambitious learners progress toward building and explaining a small educational GPT-style model.",
+  "recorded_on": "2026-09-14",
+  "record_version": "0.1"
+}
